@@ -1,0 +1,32 @@
+_repo: Just-Around-the-Corner--Romance-en-casserole_33118
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33118-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Hurst, Fannie
+    alias: Danielson, Fannie Hurst
+    birthdate: 1889
+    deathdate: 1968
+    gutenberg_agent_id: '3177'
+    url: http://www.gutenberg.org/2009/agents/3177
+    wikipedia: http://en.wikipedia.org/wiki/Fannie_Hurst
+description: ''
+gutenberg_issued: '2010-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: Power and horse-power -- Other people's shoes -- The other cheek
+  -- Marked down -- Breakers ahead -- The good provider -- Superman -- The paradise
+  trail -- The squall.
+title: 'Just Around the Corner: Romance en casserole'
+url: http://www.gutenberg.org/ebooks/33118
